@@ -176,3 +176,10 @@ Port: 2333
 Password : "discord.gg/cyberhost"
 Secure : false
 ```
+Hosted by @ [Diva Host](https://discord.gg/divahost)
+```bash
+Host: lavalink.divahost.net
+Port: 60002
+Password: divahostv4
+Secure: false
+```
